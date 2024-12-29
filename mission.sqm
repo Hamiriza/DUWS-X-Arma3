@@ -277,7 +277,7 @@ class Mission
 					flags=2;
 					class Attributes
 					{
-						rank="LIEUTENANT";
+						rank="CAPTAIN";
 						name="player1";
 						description="Group Leader (player1, Game Master)";
 						isPlayer=1;
@@ -597,7 +597,7 @@ class Mission
 					flags=2;
 					class Attributes
 					{
-						rank="SERGEANT";
+						rank="LIEUTENANT";
 						name="player3";
 						description="Group Leader";
 						isPlayable=1;
@@ -916,7 +916,7 @@ class Mission
 					flags=2;
 					class Attributes
 					{
-						rank="SERGEANT";
+						rank="LIEUTENANT";
 						name="player4";
 						description="Group Leader";
 						isPlayable=1;
@@ -1235,7 +1235,7 @@ class Mission
 					flags=2;
 					class Attributes
 					{
-						rank="SERGEANT";
+						rank="LIEUTENANT";
 						name="player5";
 						description="Group Leader";
 						isPlayable=1;
@@ -1554,7 +1554,7 @@ class Mission
 					flags=2;
 					class Attributes
 					{
-						rank="SERGEANT";
+						rank="LIEUTENANT";
 						name="player6";
 						description="Group Leader";
 						isPlayable=1;
@@ -1630,7 +1630,7 @@ class Mission
 					flags=2;
 					class Attributes
 					{
-						rank="SERGEANT";
+						rank="LIEUTENANT";
 						name="player7";
 						description="Group Leader";
 						isPlayable=1;
@@ -1706,7 +1706,7 @@ class Mission
 					flags=2;
 					class Attributes
 					{
-						rank="SERGEANT";
+						rank="LIEUTENANT";
 						name="player8";
 						description="Group Leader";
 						isPlayable=1;
@@ -1782,7 +1782,7 @@ class Mission
 					flags=2;
 					class Attributes
 					{
-						rank="SERGEANT";
+						rank="LIEUTENANT";
 						name="player9";
 						description="Group Leader";
 						isPlayable=1;
@@ -1858,7 +1858,7 @@ class Mission
 					flags=2;
 					class Attributes
 					{
-						rank="SERGEANT";
+						rank="LIEUTENANT";
 						name="player10";
 						description="Group Leader";
 						isPlayable=1;
@@ -1934,7 +1934,7 @@ class Mission
 					flags=2;
 					class Attributes
 					{
-						rank="SERGEANT";
+						rank="LIEUTENANT";
 						name="player15";
 						description="Group Leader";
 						isPlayable=1;
@@ -2010,7 +2010,7 @@ class Mission
 					flags=2;
 					class Attributes
 					{
-						rank="SERGEANT";
+						rank="LIEUTENANT";
 						name="player16";
 						description="Group Leader";
 						isPlayable=1;
@@ -2086,7 +2086,7 @@ class Mission
 					flags=2;
 					class Attributes
 					{
-						rank="SERGEANT";
+						rank="LIEUTENANT";
 						name="player11";
 						description="Group Leader";
 						isPlayable=1;
@@ -2162,7 +2162,7 @@ class Mission
 					flags=2;
 					class Attributes
 					{
-						rank="SERGEANT";
+						rank="LIEUTENANT";
 						name="player12";
 						description="Group Leader";
 						isPlayable=1;
@@ -2238,7 +2238,7 @@ class Mission
 					flags=2;
 					class Attributes
 					{
-						rank="SERGEANT";
+						rank="LIEUTENANT";
 						name="player17";
 						description="Group Leader";
 						isPlayable=1;
@@ -2314,7 +2314,7 @@ class Mission
 					flags=2;
 					class Attributes
 					{
-						rank="SERGEANT";
+						rank="LIEUTENANT";
 						name="player18";
 						description="Group Leader";
 						isPlayable=1;
@@ -2390,7 +2390,7 @@ class Mission
 					flags=2;
 					class Attributes
 					{
-						rank="SERGEANT";
+						rank="LIEUTENANT";
 						name="player13";
 						description="Group Leader";
 						isPlayable=1;
@@ -2466,7 +2466,7 @@ class Mission
 					flags=2;
 					class Attributes
 					{
-						rank="SERGEANT";
+						rank="LIEUTENANT";
 						name="player14";
 						description="Group Leader";
 						isPlayable=1;
@@ -2542,7 +2542,7 @@ class Mission
 					flags=2;
 					class Attributes
 					{
-						rank="SERGEANT";
+						rank="LIEUTENANT";
 						name="player19";
 						description="Group Leader";
 						isPlayable=1;
@@ -2618,7 +2618,7 @@ class Mission
 					flags=2;
 					class Attributes
 					{
-						rank="SERGEANT";
+						rank="LIEUTENANT";
 						name="player20";
 						description="Group Leader";
 						isPlayable=1;
@@ -2696,7 +2696,7 @@ class Mission
 					class Attributes
 					{
 						skill=0.46666664;
-						rank="SERGEANT";
+						rank="LIEUTENANT";
 						name="player2";
 						description="Group Leader";
 						isPlayable=1;
