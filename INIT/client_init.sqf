@@ -298,7 +298,7 @@ playMusic ["EventTrack01a_F_EPA", 0];
 [] spawn fnc_bottom_right_message;
 hintsilent format[localize "STR_DUWS_X_ix8g2neb",worldName,profileName];
 titleCut ["", "BLACK IN", 10];
-[] spawn fnc_call_ui_resource;
+[] remoteExec ["fnc_call_ui_resource", 0, true];
 
 player setVariable["Saved_Loadout", getUnitLoadout player];
 player setdamage 0;	
