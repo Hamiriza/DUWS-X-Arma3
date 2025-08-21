@@ -148,5 +148,7 @@ blufor_RQST_VEHICLE_38_X =			["B_UAV_02_dynamicLoadout_F","UAV MQ-4A Greyhawk (1
 blufor_RQST_VEHICLE_39_X =			["B_UGV_01_F","UGV Stomper Recon (10CP)",10];
 blufor_RQST_VEHICLE_40_X =			["B_UGV_01_rcws_F","UGV Stomper RCWS (20CP)",20];
 blufor_RQST_VEHICLE_41_X =			["B_T_UAV_03_dynamicLoadout_F","MQ-12 UAV (20CP)",20];
+blufor_RQST_VEHICLE_42_X =			["B_T_VTOL_01_infantry_F", "V-44 X Infantry Transport (30CP)", 30];
+blufor_RQST_VEHICLE_43_X =			["B_T_VTOL_01_vehicle_F", "V-44 X Vehivle Transport (30CP)", 30];
 
 
